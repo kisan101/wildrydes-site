@@ -6,6 +6,6 @@ window._config = {
   },
   api: {
     invokeUrl:
-      " arn:aws:cognito-idp:us-east-1:860269591288:userpool/us-east-1_ZYEAHlPUz", // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+      "arn:aws:cognito-idp:us-east-1:860269591288:userpool/us-east-1_ZYEAHlPUz", // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
   },
 };
